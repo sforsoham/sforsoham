@@ -1,4 +1,4 @@
 - 👋 Hi, I’m soham
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on ML and DS
